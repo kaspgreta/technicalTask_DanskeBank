@@ -1,0 +1,13 @@
+C:\Users\OK\Desktop\technicalTask\technicalTask\bin\Debug\netcoreapp3.1\technicalTask.exe
+C:\Users\OK\Desktop\technicalTask\technicalTask\bin\Debug\netcoreapp3.1\technicalTask.deps.json
+C:\Users\OK\Desktop\technicalTask\technicalTask\bin\Debug\netcoreapp3.1\technicalTask.runtimeconfig.json
+C:\Users\OK\Desktop\technicalTask\technicalTask\bin\Debug\netcoreapp3.1\technicalTask.runtimeconfig.dev.json
+C:\Users\OK\Desktop\technicalTask\technicalTask\bin\Debug\netcoreapp3.1\technicalTask.dll
+C:\Users\OK\Desktop\technicalTask\technicalTask\bin\Debug\netcoreapp3.1\technicalTask.pdb
+C:\Users\OK\Desktop\technicalTask\technicalTask\obj\Debug\netcoreapp3.1\technicalTask.csprojAssemblyReference.cache
+C:\Users\OK\Desktop\technicalTask\technicalTask\obj\Debug\netcoreapp3.1\technicalTask.AssemblyInfoInputs.cache
+C:\Users\OK\Desktop\technicalTask\technicalTask\obj\Debug\netcoreapp3.1\technicalTask.AssemblyInfo.cs
+C:\Users\OK\Desktop\technicalTask\technicalTask\obj\Debug\netcoreapp3.1\technicalTask.csproj.CoreCompileInputs.cache
+C:\Users\OK\Desktop\technicalTask\technicalTask\obj\Debug\netcoreapp3.1\technicalTask.dll
+C:\Users\OK\Desktop\technicalTask\technicalTask\obj\Debug\netcoreapp3.1\technicalTask.pdb
+C:\Users\OK\Desktop\technicalTask\technicalTask\obj\Debug\netcoreapp3.1\technicalTask.genruntimeconfig.cache
